@@ -10,14 +10,14 @@ Backend Engineer specialized in Python, Django, Linux System Administration, and
 
 ## 🏗️ Featured Projects
 
-| Project | What it is | Stack | Status |
-|---------|-----------|-------|--------|
-| [AMW_Django_ERP](https://github.com/AhmadMWaddah/AMW_Django_ERP) | ERP system: employee identity + policy-based access, inventory with WAC valuation, sales/purchasing workflows, audit logging, HTMX UI. 8 phases, 228 tests. | Django 4.2, PostgreSQL 15, Redis 7, Celery 5, Docker | ✅ Complete |
-| [DigitalWallet](https://github.com/AhmadMWaddah/DigitalWallet) | Fintech wallet: separate client/staff portals, atomic deposit/withdraw/transfer, fraud detection + review queue, async PDF statements, analytics dashboards. | Django 5.2, PostgreSQL, Celery, Redis, HTMX, ReportLab | ✅ Complete (local demo) |
-| [Pulse_Feed](https://github.com/AhmadMWaddah/Pulse_Feed) | Real-time social platform: posts, follows, likes, comments, WebSocket push notifications, email alerts + weekly digest via Celery Beat. 103 tests. | Django 5.0, Channels (WebSockets), PostgreSQL 16, Redis, Celery, Docker | ✅ Complete |
-| [KVM_Spin_Ups](https://github.com/AhmadMWaddah/KVM_Spin_Ups) | Infrastructure-as-Code automation: zero-to-VM KVM provisioning with Kickstart unattended installs, multi-VM orchestration for test labs. | Bash, KVM/QEMU, libvirt, Kickstart | ✅ Complete |
+| Project | One-liner |
+|---------|-----------|
+| [AMW_Django_ERP](https://github.com/AhmadMWaddah/AMW_Django_ERP) | ERP: identity + access policies, WAC inventory, sales/purchasing, audit log — 228 tests |
+| [DigitalWallet](https://github.com/AhmadMWaddah/DigitalWallet) | Fintech wallet: atomic transfers, fraud review queue, async PDF statements |
+| [Pulse_Feed](https://github.com/AhmadMWaddah/Pulse_Feed) | Real-time social: WebSocket notifications, digest emails — 103 tests |
+| [KVM_Spin_Ups](https://github.com/AhmadMWaddah/KVM_Spin_Ups) | IaC: zero-to-VM KVM provisioning via Kickstart |
 
-> Live demo links coming soon — each repo has full local setup docs (Docker Compose one-command start).
+> All complete. Setup docs in each repo. Live demos coming soon.
 
 ---
 
