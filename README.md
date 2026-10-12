@@ -12,10 +12,12 @@ Backend Engineer specialized in Python, Django, Linux System Administration, and
 
 | Project | One Liner |
 |---------|-----------|
+| [KVM_Spin_Ups](https://github.com/AhmadMWaddah/KVM_Spin_Ups) | IaC: zero-to-VM KVM provisioning via Kickstart |
+| [enterprise-linux-setup]([https://github.com/AhmadMWaddah/KVM_Spin_Ups](https://github.com/AhmadMWaddah/enterprise-linux-setup)) | RHEL: interprise configurations via bash |
+| [ansible-vm-provisioning]([https://github.com/AhmadMWaddah/KVM_Spin_Ups](https://github.com/AhmadMWaddah/ansible-vm-provisioning)) | Bash: automated vn provisioning |
 | [AMW_Django_ERP](https://github.com/AhmadMWaddah/AMW_Django_ERP) | ERP: identity + access policies, WAC inventory, sales/purchasing, audit log — 228 tests |
 | [DigitalWallet](https://github.com/AhmadMWaddah/DigitalWallet) | Fintech wallet: atomic transfers, fraud review queue, async PDF statements |
 | [Pulse_Feed](https://github.com/AhmadMWaddah/Pulse_Feed) | Real-time social: WebSocket notifications, digest emails — 103 tests |
-| [KVM_Spin_Ups](https://github.com/AhmadMWaddah/KVM_Spin_Ups) | IaC: zero-to-VM KVM provisioning via Kickstart |
 
 > All complete. Setup docs in each repo. Live demos coming soon.
 
