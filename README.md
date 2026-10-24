@@ -4,7 +4,7 @@ Backend Engineer specialized in Python, Django, Linux System Administration, and
 
 - 🛠️ **Tech Stack:** Python, Django, PostgreSQL, Docker, Linux (Ubuntu), Bash, Git/GitHub Actions, Hetzner, OCI, AWS
 - 🚀 **Featured Projects:** ERP · Fintech Wallet · Real time Social · KVM Automation (links below)
-- 📫 **Contact:** [MyLinkedIn](https://www.linkedin.com/in/ahmadmwaddah/) | [samuraitito313@tuta.io](mailto:samuraitito313@tuta.io) | [MyWebsite](https://amw.work.gd)
+- 📫 **Contact:** [samuraitito313@tuta.io](mailto:samuraitito313@tuta.io) | [MyWebsite](https://amw.work.gd)
 
 ---
 
