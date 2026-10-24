@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad M Waddah
 
-Backend Engineer specialized in Python, Django, Linux System Administration, and DevOps practices. I build production style systems ERP, fintech, real time social plus the infrastructure automation to run them.
+Daily driving Linux since 2008. I work across the whole stack: Linux systems, Django web apps, CI/CD automation, and cloud deployments on Hetzner. One engineer, from boot script to rendered page.
 
 - 🛠️ **Tech Stack:** Python, Django, PostgreSQL, Docker, Linux (Ubuntu), Bash, Git/GitHub Actions, Hetzner, OCI, AWS
 - 🚀 **Featured Projects:** ERP · Fintech Wallet · Real time Social · KVM Automation (links below)
